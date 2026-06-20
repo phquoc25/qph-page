@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqph_page=self.webpackChunkqph_page||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/qph-page/blog","blogTitle":"Blog","authorsListPath":"/qph-page/blog/authors"}')}}]);
