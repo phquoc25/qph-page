@@ -93,6 +93,25 @@
     padding-top: 1.5rem;
 }
 
+.contact {
+    margin-top: 1rem;
+    font-size: 0.95rem;
+    color: var(--ifm-color-emphasis-700);
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.contact a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.contact a:hover {
+    color: var(--ifm-color-primary);
+}
+
 @media (max-width: 600px) {
     .heroRow {
         flex-direction: column;

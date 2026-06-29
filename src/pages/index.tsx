@@ -8,7 +8,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Quoc Phan - Java + Angular technical leader.">
+      description="Quoc Phan - Technical leader.">
       <main>
         <CvPage />
       </main>
