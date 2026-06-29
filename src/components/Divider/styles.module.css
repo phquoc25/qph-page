@@ -1,0 +1,7 @@
+.divider {
+    text-align: center;
+    font-size: 1.5rem;
+    color: var(--ifm-color-emphasis-300);
+    margin: 2.5rem 0;
+    letter-spacing: 0.5rem;
+}
