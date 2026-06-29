@@ -1,5 +1,34 @@
-.divider {
-    width: 100%;
-    height: 1px;
-    background-color: #e5e7eb;
+.technicalSkills {
+    margin-bottom: 1rem;
+}
+
+.sectionTitle {
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    line-height: 1.1;
+    color: var(--ifm-color-emphasis-900);
+    margin: 0 0 2.5rem 0;
+}
+
+.skillGroup {
+    margin-bottom: 2rem;
+}
+
+.skillCategory {
+    font-size: 0.85rem;
+    color: var(--ifm-color-emphasis-500);
+    margin-bottom: 0.4rem;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+}
+
+.skillKeywords {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--ifm-color-emphasis-800);
+    line-height: 1.6;
+    margin: 0;
 }

@@ -6,7 +6,7 @@ export default function Divider(): ReactNode {
         <div
             className={styles.divider}
         >
-            ~~~~~~
+            ∿∿∿∿∿
         </div>
     );
 }
