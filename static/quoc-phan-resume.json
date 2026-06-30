@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Quoc PHAN",
-    "label": "Java + Angular technical leader",
-    "summary": "I have been working as a Java backend developer for 12 years, and during that time, I have gained extensive experience in developing and maintaining enterprise web applications using Restful API and JMS. I also have 5 years of experience as a Technical leader. In addition to my backend expertise, I am proficient in modern front-end frameworks like Angular. My technical background has equipped me with the ability to learn new things quickly and solve problems effectively. I am also a good communicator, which helps me collaborate well with other team members.",
+    "label": "Fullstack Java + Angular / Reactjs technical leader",
+    "summary": "Accomplished Java Backend Developer with over 12 years of experience designing, developing, and maintaining enterprise web applications utilizing RESTful APIs and JMS. Proven track record including 5 years as a Technical Leader, driving project success and team collaboration. Proficient in modern front-end frameworks, notably Angular, Reactjs. Possess strong analytical skills with a demonstrated ability to rapidly adapt to new technologies and deliver effective solutions. Excellent communicator and collaborative team player.",
     "email": "phquoc25@gmail.com",
     "phone": "0909103950",
     "location": {
-      "city": "Binh Thanh District, HCM city"
+      "city": "Long Binh, Ho Chi Minh city"
     }
   },
   "education": [
@@ -23,12 +23,12 @@
       "keywords": [
         "Design patterns / SOLID / OOP",
         "Microservices pattern",
-        "Clean / Hexagonal architecture",
-        "Java / Rxjava", 
-        "Spring boot / Micronaut", 
-        "Rabbit MQ",
+        "Hexagonal architecture",
+        "Java / Rxjava",
+        "Spring boot / Micronaut",
+        "Rabbit MQ / Kafka",
         "MySQL / Postgres / Mongodb"
-    ],
+      ],
       "level": "Senior",
       "name": "Backend"
     },
@@ -37,7 +37,7 @@
         "HTML",
         "SCSS / CSS / BEM",
         "Javascript / Typescript",
-        "Angular",
+        "Angular / Reactjs",
         "Micro frontend",
         "Redux"
       ],
@@ -46,9 +46,9 @@
     },
     {
       "keywords": [
-        "Docker", 
-        "Jenkins", 
-        "Sonar", 
+        "Docker",
+        "Jenkins",
+        "Sonar",
         "Ansible"
       ],
       "level": "Senior",
@@ -56,27 +56,53 @@
     },
     {
       "keywords": [
-        "Presentation skill", 
+        "Presentation skill",
         "Code review",
         "Scrum master"
-    ],
+      ],
       "level": "",
       "name": "Others"
     }
   ],
   "work": [
     {
-      "summary": "Deveryloc is an automatic system that processes geolocation in real-time. Initially, I worked as a senior full-stack developer but later became the technical leader and scrum master. I built the micro frontend architecture and the local Docker for the development environment. We also migrated the application from GWT to Angular and from monolithic to microservices in the backend",
+      "summary": "Developed the Financial Crime Workbench, a robust web application designed for investigating financial crimes. The platform streamlines analyst workflows by aggregating and visualizing critical data on a unified dashboard, eliminating the 'swivel chair' process. The backend architecture leverages multiple microservices communicating via RESTful web services and Kafka topics. The frontend is built using React.js and Redux, implemented within a micro-frontend architecture.",
+      "website": "",
+      "name": "Financial crime workbench",
+      "location": "Ho Chi Minh City",
+      "position": "Senior Java Developer at Nab Vietnam",
+      "startDate": "2024-03-11",
+      "highlights": [
+        "Microservices architecture",
+        "Reactjs / Redux / GraphQL",
+        "Spring boot",
+        "Java",
+        "Kafka",
+        "Postgres",
+        "Docker"
+      ]
+    },
+    {
+      "summary": "Led the development of Deveryloc, an automated system for real-time geolocation processing. Progressed from a Senior Full-Stack Developer to Technical Leader and Scrum Master. Architected and implemented a micro-frontend structure and containerized local development environments using Docker. Spearheaded the migration of the frontend from GWT to Angular, and the backend from a monolithic architecture to scalable microservices.",
       "website": "",
       "name": "Deveryloc",
       "location": "Ho Chi Minh City",
       "position": "Technical Leader / Scrum master  at Serdao",
       "size": 5,
+      "endDate": "2024-03-11",
       "startDate": "2017-01-01",
-      "highlights": ["Microservices architecture","Angular / Redux / SCSS", "Spring boot / Micronaut", "Java / Reactive programming", "Rabbit MQ", "MySQL", "Docker / Ansible / Jenkins"]
+      "highlights": [
+        "Microservices architecture",
+        "Angular / Redux / SCSS",
+        "Spring boot / Micronaut",
+        "Java / Reactive programming",
+        "Rabbit MQ",
+        "MySQL",
+        "Docker / Ansible / Jenkins"
+      ]
     },
     {
-      "summary": "Sedex advance is a web application which is used for managing the audit process, customer companies, and audit companies' information. The application consists of multiple microservices that communicate with each other via RESTful web services and rabbitMQ. My role involved designing and developing the RESTful APIs.",
+      "summary": "Contributed to Sedex Advance, a comprehensive web application for managing audit processes and corporate information. The system utilizes a microservices architecture communicating through RESTful web services and RabbitMQ. Played a key role in designing and developing scalable RESTful APIs to support core functionalities.",
       "website": "",
       "name": "Sedex advance",
       "location": "Ho Chi Minh City",
@@ -94,9 +120,9 @@
       "position": "Java Developer at FPT software",
       "startDate": "2015-02-01",
       "endDate": "2016-06-01",
-      "summary": "NLU is the main part of voice application products whose end users can use their voices to interact with. NLU project is responsible for analyzing the voice input and sending back the search results. I applied the Spring framework to the legacy project and wrote UT to cover the codes",
+      "summary": "Engineered Natural Language Understanding (NLU) components for voice-interactive applications. The NLU system processes user voice input and retrieves relevant search results. Successfully integrated the Spring framework into the legacy codebase and implemented comprehensive unit testing to ensure code reliability and performance.",
       "highlights": [
-        "Java / Spring boot / Junit", 
+        "Java / Spring boot / Junit",
         "RESTful WS",
         "MongoDB"
       ],
@@ -108,9 +134,9 @@
       "position": "Developer at Capgemini Vietnam",
       "startDate": "2011-10-01",
       "endDate": "2015-01-01",
-      "summary": "Customer system needs to be upgraded to the new version of Guidewire in order to use the new features and fix some bugs. For the customer’s customization, we have to upgrade by ourselves and ensure that the business will be the same in 2 versions. We upgrade the system from Guidewire 6 to Guidewire 8 and fixing bug after the migration",
+      "summary": "Executed a critical upgrade of a customer system to a newer version of Guidewire, enabling new features and resolving existing bugs. Managed custom integrations and ensured seamless business continuity across versions. Successfully upgraded the platform from Guidewire 6 to Guidewire 8 and performed extensive post-migration debugging and optimization.",
       "highlights": [
-        "Guidewire / Java / SOAP ws", 
+        "Guidewire / Java / SOAP ws",
         "Oracle"
       ],
       "website": "",
