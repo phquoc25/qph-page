@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Quoc PHAN",
+    "label": "Fullstack Java + Angular / Reactjs technical leader",
+    "summary": "Accomplished Java Backend Developer with over 12 years of experience designing, developing, and maintaining enterprise web applications utilizing RESTful APIs and JMS. Proven track record including 5 years as a Technical Leader, driving project success and team collaboration. Proficient in modern front-end frameworks, notably Angular, Reactjs. Possess strong analytical skills with a demonstrated ability to rapidly adapt to new technologies and deliver effective solutions. Excellent communicator and collaborative team player.",
+    "email": "phquoc25@gmail.com",
+    "phone": "0909103950",
+    "location": {
+      "city": "Long Binh, Ho Chi Minh city"
+    }
+  },
+  "education": [
+    {
+      "endDate": "2011-12-12",
+      "startDate": "2007-02-12",
+      "area": "Information Technology",
+      "studyType": "Bachelors",
+      "institution": "Can Tho University"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Design patterns / SOLID / OOP",
+        "Microservices pattern",
+        "Hexagonal architecture",
+        "Java / Rxjava",
+        "Spring boot / Micronaut",
+        "Rabbit MQ / Kafka",
+        "MySQL / Postgres / Mongodb"
+      ],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "HTML",
+        "SCSS / CSS / BEM",
+        "Javascript / Typescript",
+        "Angular / Reactjs",
+        "Micro frontend",
+        "Redux"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Jenkins",
+        "Sonar",
+        "Ansible"
+      ],
+      "level": "Senior",
+      "name": "Devops"
+    },
+    {
+      "keywords": [
+        "Presentation skill",
+        "Code review",
+        "Scrum master"
+      ],
+      "level": "",
+      "name": "Others"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Developed the Financial Crime Workbench, a robust web application designed for investigating financial crimes. The platform streamlines analyst workflows by aggregating and visualizing critical data on a unified dashboard, eliminating the 'swivel chair' process. The backend architecture leverages multiple microservices communicating via RESTful web services and Kafka topics. The frontend is built using React.js and Redux, implemented within a micro-frontend architecture.",
+      "website": "",
+      "name": "Financial crime workbench",
+      "location": "Ho Chi Minh City",
+      "position": "Senior Java Developer at Nab Vietnam",
+      "startDate": "2024-03-11",
+      "highlights": [
+        "Microservices architecture",
+        "Reactjs / Redux / GraphQL",
+        "Spring boot",
+        "Java",
+        "Kafka",
+        "Postgres",
+        "Docker"
+      ]
+    },
+    {
+      "summary": "Led the development of Deveryloc, an automated system for real-time geolocation processing. Progressed from a Senior Full-Stack Developer to Technical Leader and Scrum Master. Architected and implemented a micro-frontend structure and containerized local development environments using Docker. Spearheaded the migration of the frontend from GWT to Angular, and the backend from a monolithic architecture to scalable microservices.",
+      "website": "",
+      "name": "Deveryloc",
+      "location": "Ho Chi Minh City",
+      "position": "Technical Leader / Scrum master  at Serdao",
+      "size": 5,
+      "endDate": "2024-03-11",
+      "startDate": "2017-01-01",
+      "highlights": [
+        "Microservices architecture",
+        "Angular / Redux / SCSS",
+        "Spring boot / Micronaut",
+        "Java / Reactive programming",
+        "Rabbit MQ",
+        "MySQL",
+        "Docker / Ansible / Jenkins"
+      ]
+    },
+    {
+      "summary": "Contributed to Sedex Advance, a comprehensive web application for managing audit processes and corporate information. The system utilizes a microservices architecture communicating through RESTful web services and RabbitMQ. Played a key role in designing and developing scalable RESTful APIs to support core functionalities.",
+      "website": "",
+      "name": "Sedex advance",
+      "location": "Ho Chi Minh City",
+      "position": "Senior Java Developer  at FPT software",
+      "startDate": "2016-06-01",
+      "endDate": "2016-12-01",
+      "highlights": [
+        "Java / Spring boot / Hibernate",
+        "RESTful WS",
+        "Postgres"
+      ]
+    },
+    {
+      "name": "NLU – Nature Language Understanding",
+      "position": "Java Developer at FPT software",
+      "startDate": "2015-02-01",
+      "endDate": "2016-06-01",
+      "summary": "Engineered Natural Language Understanding (NLU) components for voice-interactive applications. The NLU system processes user voice input and retrieves relevant search results. Successfully integrated the Spring framework into the legacy codebase and implemented comprehensive unit testing to ensure code reliability and performance.",
+      "highlights": [
+        "Java / Spring boot / Junit",
+        "RESTful WS",
+        "MongoDB"
+      ],
+      "website": "",
+      "pinned": true
+    },
+    {
+      "name": "AXA – Solaris upgrade",
+      "position": "Developer at Capgemini Vietnam",
+      "startDate": "2011-10-01",
+      "endDate": "2015-01-01",
+      "summary": "Executed a critical upgrade of a customer system to a newer version of Guidewire, enabling new features and resolving existing bugs. Managed custom integrations and ensured seamless business continuity across versions. Successfully upgraded the platform from Guidewire 6 to Guidewire 8 and performed extensive post-migration debugging and optimization.",
+      "highlights": [
+        "Guidewire / Java / SOAP ws",
+        "Oracle"
+      ],
+      "website": "",
+      "pinned": true
+    }
+  ],
+  "interests": [
+    {
+      "name": "Badminton"
+    }
+  ]
+}
