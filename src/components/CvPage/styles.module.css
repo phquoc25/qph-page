@@ -1,0 +1,7 @@
+.cvContainer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    background: var(--ifm-background-color);
+    min-height: 100vh;
+}
